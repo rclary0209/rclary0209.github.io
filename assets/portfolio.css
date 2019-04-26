@@ -20,9 +20,9 @@
     image-orientation: center;
 }
 
-#post{
-    width: 600px;
-}
+/* #contact{
+    height: 600px;
+} */
 
 .jumbotron {
     height: 200px;
@@ -31,8 +31,8 @@
 #contact {
     height: 600px;
     margin-bottom: 0px;
-    background-image: url(./images/bundo-kim-737988-unsplash.jpg);
-    background-size: cover;
+    background-image: url("./images/bundo-kim-737988-unsplash.jpg");
+    background-size: contain;
     background-repeat: no-repeat;
     color: white;
     font-size: 26;
